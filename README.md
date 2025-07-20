@@ -57,7 +57,7 @@ Os dados foram carregados via arquivos `.csv` disponíveis no GitHub:
 
 4. Execute o notebook ou script Python em seu ambiente de preferência:
 
-
+---
 
 ## Saídas esperadas:
 
